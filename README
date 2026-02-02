@@ -1,4 +1,4 @@
-Rails-Devise-Pundit-Roles
+PolicyGate - Permissions Management Portal
 =========================
 
 While Devise stands for authentication and Pundit for authorisation, 
